@@ -8,12 +8,9 @@
 
 This project contains comprehensive educational data including students, instructors, courses, and evaluation metrics in an Excel workbook.
 
-![Dashboard Preview](images/dashboard1.png)
-![Analytics Preview](images/dashboard2.png)
 
-## 🗂️ File Structure
-
-
+<img width="1289" height="702" alt="dashboard1 png" src="https://github.com/user-attachments/assets/aa4d78ed-116d-49c1-8daf-5dc07853fc9a" />
+<img width="1163" height="558" alt="dashboard2 png" src="https://github.com/user-attachments/assets/d919ba04-bfcc-46e0-b28d-8edc114757d1" />
 
 
 

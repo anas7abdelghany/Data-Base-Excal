@@ -8,6 +8,9 @@
 
 This project contains comprehensive educational data including students, instructors, courses, and evaluation metrics in an Excel workbook.
 
+![Dashboard Preview](images/dashboard1.png)
+![Analytics Preview](images/dashboard2.png)
+
 ## 🗂️ File Structure
 
 

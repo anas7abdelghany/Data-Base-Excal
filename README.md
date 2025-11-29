@@ -12,68 +12,7 @@ This project contains comprehensive educational data including students, instruc
 
 
 
-## 📋 Data Sheets
 
-### 🎯 Sheet4 - Topics Master Data
-Contains the core educational topics and their identifiers:
-
-| Top_Id | Top_Name        |
-|--------|-----------------|
-| 1      | Programming     |
-| 2      | DB              |
-| 3      | Web             |
-| 4      | Operating System|
-| 5      | Design          |
-
-### 📊 Pivot - Comprehensive Analytics
-
-#### 👨‍🏫 Instructors per Department
-| Department | Instructors |
-|------------|-------------|
-| EB         | 2           |
-| EL         | 2           |
-| Java       | 2           |
-| MM         | 1           |
-| SD         | 7           |
-| Unix       | 1           |
-| **Total**  | **15**      |
-
-#### 👨‍🎓 Students per Course
-| Course       | Students |
-|--------------|----------|
-| C Programming| 8        |
-| HTML         | 6        |
-| Unix         | 5        |
-| OOP          | 4        |
-| Oracle       | 4        |
-| Java         | 3        |
-| ASP.Net      | 3        |
-| C#           | 1        |
-| SQL Server   | 1        |
-| Web Service  | 1        |
-| **Total**    | **36**   |
-
-#### 📊 Evaluation Distribution
-| Evaluation Type   | Percentage |
-|-------------------|------------|
-| Distinct          | 28.57%     |
-| Good              | 32.14%     |
-| Pending Evaluation| 17.86%     |
-| VGood             | 21.43%     |
-
-#### 🏆 Instructor Performance
-| Instructor | Average Grade |
-|------------|---------------|
-| Fady       | 95%           |
-| Ahmed      | 84.44%        |
-| Amr        | 84%           |
-| Heba       | 80%           |
-| Khalid     | 80%           |
-| Mona       | 78%           |
-| Saly       | 75%           |
-| Ali        | 70%           |
-| Mohamed    | 65%           |
-| **Overall**| **80.28%**    |
 
 ## 🎯 Key Metrics
 
